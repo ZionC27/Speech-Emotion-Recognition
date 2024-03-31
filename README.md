@@ -3,7 +3,7 @@
 This repository contains code and resources for a Speech Emotion Recognition (SER) project, aiming to build robust models for recognizing emotions in speech signals.
 The project builds upon recent studies in SER, emphasizing the significance of deep learning methods and addressing limitations in existing datasets.
 
-You can test out the Speech Emotion Recognition on my hugging face spaces here: https://huggingface.co/spaces/ZionC27/Speech-Emotion-Recognition
+## You can test out the Speech Emotion Recognition on my hugging face spaces here: https://huggingface.co/spaces/ZionC27/Speech-Emotion-Recognition
 
 Dataset Description and Analysis:
 A comprehensive dataset was constructed by combining secondary datasets including Emotional Multimodal Actors Dataset (CREMA-D), JL corpus, Toronto Emotional Speech Set (TESS), EmoV- DB, ASVP-ESD (Speech and Non-Speech Emotional Sound), 
