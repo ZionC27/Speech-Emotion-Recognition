@@ -1,4 +1,4 @@
-# Speech Emotion Recognition (SER) Project
+# Speech Emotion Recognition (SER) using deep learning
 
 This repository contains code and resources for a Speech Emotion Recognition (SER) project, aiming to build robust models for recognizing emotions in speech signals.
 The project builds upon recent studies in SER, emphasizing the significance of deep learning methods and addressing limitations in existing datasets.
