@@ -57,7 +57,7 @@ All audio file used for testing and training should be in Wav format
 
 ## Licence 
 
-Licenced under https://opensource.org/license/mit
+Licenced under [MIT](https://opensource.org/license/mit)
 
 For any questions or inquiries, please contact me at zion2027@gmail.com
 
