@@ -6,10 +6,11 @@ The project builds upon recent studies in SER, emphasizing the significance of d
 ## You can test out the Speech Emotion Recognition on my hugging face spaces here: https://huggingface.co/spaces/ZionC27/Speech-Emotion-Recognition
 
 Dataset Description and Analysis:
-A comprehensive dataset was constructed by combining secondary datasets including Emotional Multimodal Actors Dataset (CREMA-D), JL corpus, Toronto Emotional Speech Set (TESS), EmoV- DB, ASVP-ESD (Speech and Non-Speech Emotional Sound), 
-Publicly Available Emotional Speech Dataset (ESD), Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS), and a primary dataset Diverse Emotion Speech dataset - English (DESD-E) collected from friends and schoolmates. 
+A comprehensive dataset was constructed by combining secondary datasets including Emotional Multimodal Actors Dataset [(CREMA-D)](https://github.com/CheyneyComputerScience/CREMA-D), [JL corpus](https://www.kaggle.com/datasets/tli725/jl-corpus), Toronto Emotional Speech Set [(TESS)](https://utoronto.scholaris.ca/collections/036db644-9790-4ed0-90cc-be1dfb8a4b66), [EmoV-DB](https://github.com/numediart/EmoV-DB), [ASVP-ESD](https://www.kaggle.com/datasets/dejolilandry/asvpesdspeech-nonspeech-emotional-utterances) (Speech and Non-Speech Emotional Sound), 
+Publicly Available Emotional Speech Dataset [(ESD)](https://www.kaggle.com/datasets/dejolilandry/asvpesdspeech-nonspeech-emotional-utterances), Ryerson Audio-Visual Database of Emotional Speech and Song [(RAVDESS)](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio), and a primary dataset Diverse Emotion Speech dataset - English (DESD-E) collected from friends and schoolmates. 
 This approach ensures diversity and richness in the dataset, contributing to the robustness of the emotion recognition models. 
 The decision to incorporate primary data stemmed from limitations observed in existing datasets, including a focus on specific sentences and accent variations.
+You can check out [this](https://github.com/jim-schwoebel/voice_datasets?tab=readme-ov-file) repo for links to more datasets.
 
 # Feature Extraction Methods
 
